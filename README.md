@@ -6,6 +6,7 @@ With solid experience in **Java**, **Sql**, and **modern web technologies**,
 I aim to create efficient, reliable, and scalable software that combines logic and creativity.  
 
 💡 *“Crafting logic and elegance in every line of code.”*
+
 ---
 ### 📬 Connect with Me
 
@@ -17,6 +18,30 @@ I aim to create efficient, reliable, and scalable software that combines logic a
 [![](https://img.shields.io/github/followers/Imohammedsaadh?label=GitHub%20Followers)](https://github.com/Imohammedsaadh)
 
 ---
+### 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,python&theme=light" />
+  </a>
+</p>
+
+---
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  </a>
+</p>
+### 📊 GitHub Statistics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Imohammedsaadh&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+
+---
+
+<p align="center">
+  <i>“Code is where creativity meets logic.”</i> ✨
+</p>
+
 
 <!---
 Imohammedsaadh/Imohammedsaadh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
