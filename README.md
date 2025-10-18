@@ -6,6 +6,7 @@ With solid experience in **Java**, **Sql**, and **modern web technologies**,
 I aim to create efficient, reliable, and scalable software that combines logic and creativity.  
 
 💡 *“Crafting logic and elegance in every line of code.”*
+---
 
 <!---
 Imohammedsaadh/Imohammedsaadh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
