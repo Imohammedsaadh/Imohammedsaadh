@@ -13,7 +13,7 @@ I aim to create efficient, reliable, and scalable software that combines logic a
 [![Instagram Badge](https://img.shields.io/badge/-@saadh_ibn_ibrahim-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/saadh_ibn_ibrahim/)
 [![Linkedin Badge](https://img.shields.io/badge/-Mohammed%20Saadh-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imohammedsaadh/)
 [![Discord Badge](https://img.shields.io/badge/-wizardblac-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![](https://komarev.com/ghpvc/?username=Saboo24&color=blue&label=Profile%20Views)](https://github.com/Saboo24)
+[![](https://komarev.com/ghpvc/?username=Imohammedsaadh&color=blue&label=Profile%20Views)](https://github.com/Imohammedsaadh)
 [![](https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers)](https://github.com/Saboo24)
 
 ---
