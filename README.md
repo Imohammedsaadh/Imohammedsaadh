@@ -11,7 +11,7 @@ I aim to create efficient, reliable, and scalable software that combines logic a
 
 [![Mail Badge](https://img.shields.io/badge/-Imohammedsaadh@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
 [![Instagram Badge](https://img.shields.io/badge/-@saadh_ibn_ibrahim-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/saadh_ibn_ibrahim/)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Amine%20Hamzaoui-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammed%20Saadh-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imohammedsaadh/)
 [![Facebook Badge](https://img.shields.io/badge/-Amine%20Hamzaoui-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EZqQrtBKf/)
 [![Discord Badge](https://img.shields.io/badge/-Sabo-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/805123459566010417)
 [![](https://komarev.com/ghpvc/?username=Saboo24&color=blue&label=Profile%20Views)](https://github.com/Saboo24)
