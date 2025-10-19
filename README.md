@@ -37,12 +37,12 @@ I aim to create efficient, reliable, and scalable software that combines logic a
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Imohammedsaadh&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
 
 ---
-
+<img src="https://raw.githubusercontent.com/Imohammedsaadh/Imohammedsaadh/output/snake.svg" alt="Snake animation" />
+---
 <p align="center">
   <i>“Code is where creativity meets logic.”</i> ✨
 </p>
-<img src="https://raw.githubusercontent.com/Imohammedsaadh/Imohammedsaadh/output/snake.svg" alt="Snake animation" />
-
+---
 
 
 <!---
