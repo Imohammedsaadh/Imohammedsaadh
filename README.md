@@ -38,10 +38,12 @@ I aim to create efficient, reliable, and scalable software that combines logic a
 
 ---
 <img src="https://raw.githubusercontent.com/Imohammedsaadh/Imohammedsaadh/output/snake.svg" alt="Snake animation" />
+
 ---
 <p align="center">
   <i>“Code is where creativity meets logic.”</i> ✨
 </p>
+
 ---
 
 
